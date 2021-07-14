@@ -6,4 +6,4 @@
 
 3. Input your email credentials in credentials.php file.
 
-Note: Incase you accidentally deleted cacert.pem, You can download here: https://curl.haxx.se/ca/cacert.pem
+Note: Incase you accidentally deleted cacert.pem, you can download here: https://curl.haxx.se/ca/cacert.pem
